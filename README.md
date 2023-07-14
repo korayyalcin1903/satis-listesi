@@ -1,3 +1,5 @@
+https://silver-praline-bdb464.netlify.app/
+
 # Ürün Listesi Uygulaması
 
 Bu basit uygulama, kullanıcının ürünleri ekleyebileceği, listeleyebileceği ve silebileceği bir web uygulamasıdır. Eklenen ürünlerin adı, fiyatı ve miktarı görüntülenir. Ayrıca, toplam ürün miktarı da hesaplanır.
